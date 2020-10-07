@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpotifyFriends.iml" filepath="$PROJECT_DIR$/SpotifyFriends.iml" group="SpotifyFriends" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SpotifyFriends/app" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-app-remote-release-0.7.0/spotify-app-remote-release-0.7.0.iml" filepath="$PROJECT_DIR$/spotify-app-remote-release-0.7.0/spotify-app-remote-release-0.7.0.iml" group="SpotifyFriends/spotify-app-remote-release-0.7.0" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-auth-release-1.1.0/spotify-auth-release-1.1.0.iml" filepath="$PROJECT_DIR$/spotify-auth-release-1.1.0/spotify-auth-release-1.1.0.iml" group="SpotifyFriends/spotify-auth-release-1.1.0" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-web-api-android-0.4.1/spotify-web-api-android-0.4.1.iml" filepath="$PROJECT_DIR$/spotify-web-api-android-0.4.1/spotify-web-api-android-0.4.1.iml" group="SpotifyFriends/spotify-web-api-android-0.4.1" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpotifyFriends</string>
+    <string name="home_title">SPOTIFY FRIENDS</string>
+    <string name="search_instructions"><font size="3dp"> Search for your friends: </font></string>
+    <string name="submit_friends_label">Get Music</string>
+    <string name="results_title">MUSIC IN COMMON</string>
+    <string name="search_hint">      Search usernames...</string>
+    <string name="playlists">Mixes</string>
+    <string name="artists">Artists</string>
+    <string name="songs">Songs</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

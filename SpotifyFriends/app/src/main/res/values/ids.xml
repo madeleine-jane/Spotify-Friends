@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="playlist_recycler" />
+    <item type="id" name="artist_recycler" />
+    <item type="id" name="song_recycler" />
+</resources>

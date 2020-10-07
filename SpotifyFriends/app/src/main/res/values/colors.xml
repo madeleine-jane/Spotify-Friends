@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "backgroundMedium">#181818</color>
+    <color name = "textColorWhite">#ffffff</color>
+    <color name = "textColorGray">#b3b3b3</color>
+    <color name = "spotifyGreen">#1db954</color>
+    <color name="spotifyGreenDisabled">#acbdb2</color>
+    <color name = "backgroundDark">#000000</color>
+    <color name = "backgroundLight">#3F3F3F</color>
+
+</resources>

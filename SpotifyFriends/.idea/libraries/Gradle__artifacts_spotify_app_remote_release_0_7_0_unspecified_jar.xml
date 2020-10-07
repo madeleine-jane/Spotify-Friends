@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:spotify-app-remote-release-0.7.0:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spotify-app-remote-release-0.7.0/build/.transforms/2f10c6e63bee101492c2c7230910f459/spotify-app-remote-release-0.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/spotify-app-remote-release-0.7.0/build/.transforms/2f10c6e63bee101492c2c7230910f459/spotify-app-remote-release-0.7.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

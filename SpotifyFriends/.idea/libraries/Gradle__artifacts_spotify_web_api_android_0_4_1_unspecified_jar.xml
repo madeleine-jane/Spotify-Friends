@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:spotify-web-api-android-0.4.1:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spotify-web-api-android-0.4.1/build/.transforms/52f2879f670d13e50eccbf0dabedbca6/spotify-web-api-android-0.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/spotify-web-api-android-0.4.1/build/.transforms/52f2879f670d13e50eccbf0dabedbca6/spotify-web-api-android-0.4.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

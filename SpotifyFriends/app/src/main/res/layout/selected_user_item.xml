@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/selected_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selected_bg"
+    android:orientation="horizontal"
+    android:layout_marginBottom="6dp"
+
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+
+        android:background="@drawable/ic_cancel_white_24dp" />
+
+    <TextView
+        android:id="@+id/selected_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="3dp"
+        android:fontFamily="@font/gothammedium"
+        android:padding="2dp"
+        android:text="Madeleine Andersen"
+        android:textColor="@color/textColorWhite"
+        android:textSize="18sp" />
+</FrameLayout>
